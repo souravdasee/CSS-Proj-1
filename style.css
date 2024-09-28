@@ -1,0 +1,9 @@
+body {
+  background-color: gray;
+  margin: 0cm;
+  padding: 0cm;
+}
+
+.flex {
+  display: flex;
+}
